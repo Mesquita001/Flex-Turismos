@@ -12,6 +12,10 @@ ul{
 
 ul li a{
     text-decoration: none;
+    font-weight: 700;
+    font-size: 15px;
+    color: #fff;
+    margin-top: 20px;
 }
 div img{
     display: block;
@@ -90,6 +94,7 @@ header .menu{
     flex-direction: row-reverse;
     align-items: center;
     justify-content: space-between;
+    
 }
 
 #quem-somos h2{
@@ -97,6 +102,7 @@ header .menu{
     color: rgb(6, 6, 66);
     display: flex;
     margin-bottom: 20px;
+    
 }
 
 #quem-somos h2::before{
